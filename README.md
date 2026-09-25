@@ -36,4 +36,4 @@ genlayer deploy --contract contracts/AutonomousMemoryFormation.py --args public-
 genlayer schema <address>
 ```
 
-See `LIVE_PROOFS.md` for transaction evidence after deployment. Do not represent an unfinalized or reverted transaction as a successful memory transition.
+See `LIVE_PROOFS.md` and `PROOF_MATRIX.md` for finalized StudioNet transactions covering both a preserved compaction and a deliberately lossy rejection. Do not represent an unfinalized or reverted transaction as a successful memory transition.
